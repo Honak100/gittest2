@@ -2,10 +2,5 @@ hello honak
 revoke git marge conflic
 with in 10 min taske are done
 
-hello
-<<<<<<< fcc90964580931b1f01ddf6162feb0052654f5cc
 hiii
 hello
-=======
-hiii
->>>>>>> add test
